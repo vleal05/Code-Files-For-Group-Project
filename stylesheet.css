@@ -1,0 +1,122 @@
+::backdrop{
+    background-color: antiquewhite;
+}
+
+#HA{
+    color: darkblue; background-color: aliceblue; text-align: center;font-size: xx-large
+}
+#HF{
+    color: darkblue; background-color: aliceblue; text-align: center;font-size: xx-large 
+}
+
+.Refridgerators{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+
+}
+.Stoves{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+    
+
+}
+#par1{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+#par2{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+#par3{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+.Dishwasher{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+    
+}
+.Laund-machine{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+    
+}
+#par4{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+#par5{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+#par6{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+#par7{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+}
+.Living Room{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+}
+.BedRoom{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+}
+.Dining{
+    display: inline-block;
+    background-color: burlywood; color: darkblue;
+    height: 50px;width: 400px;
+    display: block;
+    text-align: center;
+}
