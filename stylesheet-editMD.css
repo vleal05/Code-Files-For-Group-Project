@@ -1,0 +1,146 @@
+
+#HA{
+    color: darkblue; background-color: aliceblue; text-align: center;font-size: xx-large;
+    font-style: italic; font-family: cursive;
+}
+#HF{
+    color: darkblue; background-color: aliceblue; text-align: center;font-size: xx-large;
+    font-style: italic;font-family: cursive;
+}
+
+div{
+    
+    background-color: burlywood
+    color(srgb red green rgb(5, 5, 237));
+    border: 2px solid black;
+    display: inline-block;
+}
+.Refridgerators{
+    display: inline-flex;
+    background-color: burlywood; color: blue;
+    height: 50px;width: 600px;   
+    text-align: center;
+    position: relative;
+
+}
+.Stoves{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 80px;width: 300px;
+    text-align: center;
+    position: relative;
+    
+
+}
+#par1{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+
+}
+#par2{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+
+}
+
+#par3{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+
+}
+
+.Dishwasher{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 80px;width: 400px;
+    text-align: center;
+    position: relative;
+    
+}
+
+
+.Laund-machine{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 50px;width:300px;
+    text-align: center;
+    justify-content: center;
+}
+#par4{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: oblique;
+
+}
+
+#par5{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;font-style: oblique;
+
+}
+
+#par6{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;font-style: oblique;
+
+}
+
+#par7{
+    background-color: brown; color: darkblue;
+    border: 3px dotted tomato;
+    border-radius: 15px;
+    font-size: xx-large;
+    text-align: center;
+    text-transform: capitalize;font-style: oblique;
+}
+
+.LivingRoom{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 50px;width: 200px;
+    text-align: center;
+    position: static;
+}
+.BedRoom{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 50px;width: 400px;
+    text-align: center;
+    
+}
+.Dining{
+    display: inline-block;
+    background-color: burlywood; color: blue;
+    height: 50px;width: 400px;
+    text-align: center;
+}
+*body{
+    background-color: cornsilk;
+}
