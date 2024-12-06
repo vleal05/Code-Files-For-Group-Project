@@ -1,4 +1,6 @@
-
+*{
+    background-color: beige;
+}
 #HA{
     color: darkblue; background-color: aliceblue; text-align: center;font-size: xx-large;
     font-style: italic; font-family: cursive;
@@ -18,10 +20,30 @@ div{
 .Refridgerators{
     display: inline-flex;
     background-color: burlywood; color: blue;
-    height: 50px;width: 600px;   
+    height: 50px;width: 300px;   
     text-align: center;
     position: relative;
 
+}
+#image1{
+    height: 200px; width: 200px;
+    background-image: url("images/french door fridge.jpg");
+    background-size: cover;
+}
+#image2{
+    height: 200px; width: 200px;
+    background-image: url("images/fridge2.jpg");
+    background-size: cover;
+}
+#image3{
+    height: 200px; width: 200px;
+    background-image: url("images/fridge1.jpg");
+    background-size: cover;
+}
+#image4{
+    height: 200px; width: 200px;
+    background-image: url("images/french door fridge2.jpg");
+    background-size: cover;
 }
 .Stoves{
     display: inline-block;
@@ -31,6 +53,26 @@ div{
     position: relative;
     
 
+}
+#image5{
+    height: 200px; width: 200px;
+    background-image: url("images/stove.jpg");
+    background-size: cover;
+}
+#image6{
+    height: 200px; width: 200px;
+    background-image: url("images/stove2.jpg");
+    background-size: cover;
+}
+#image7{
+    height: 200px; width: 200px;
+    background-image: url("images/stove3.jpg");
+    background-size: cover;
+}
+#image8{
+    height: 200px; width: 200px;
+    background-image: url("images/stove4.jpg");
+    background-size: cover;
 }
 #par1{
     background-color: brown; color: darkblue;
@@ -67,12 +109,26 @@ div{
 .Dishwasher{
     display: inline-block;
     background-color: burlywood; color: blue;
-    height: 80px;width: 400px;
+    height: 100px;width: 200px;
     text-align: center;
     position: relative;
     
 }
-
+#image9{
+    height: 200px; width: 200px;
+    background-image: url("images/dishwasher1.jpg");
+    background-size: cover;
+}
+#image10{
+    height: 200px; width: 200px;
+    background-image: url("images/dishwasher2.jpg");
+    background-size: cover;
+}
+#image11{
+    height: 200px; width: 200px;
+    background-image: url("images/dishwasher3.jpg");
+    background-size: cover;
+}
 
 .Laund-machine{
     display: inline-block;
@@ -81,7 +137,25 @@ div{
     text-align: center;
     justify-content: center;
 }
-#par4{
+#image12{
+    height: 200px; width: 200px;
+    background-image: url("images/washer-dryer.jpg");
+    background-size: cover;
+}
+#image13{
+    height: 200px; width: 200px;
+    background-image: url("images/washer-dryer2.jpg");
+    background-size: cover;
+}
+ #image14{
+        height: 200px; width: 200px;
+        background-image: url("images/washer-dryer3.jpg");
+        background-size: cover;
+    }
+
+
+
+    #par4{
     background-color: brown; color: darkblue;
     border: 3px dotted tomato;
     border-radius: 15px;
@@ -128,6 +202,11 @@ div{
     text-align: center;
     position: static;
 }
+#image15{
+    height: 200px; width: 200px;
+    background-image: url("images/livingroom1.jpg");
+    background-size: cover;
+}
 .BedRoom{
     display: inline-block;
     background-color: burlywood; color: blue;
@@ -135,12 +214,39 @@ div{
     text-align: center;
     
 }
+#image16{
+    height: 200px; width: 200px;
+    background-image: url("images/bedroom1.jpg");
+    background-size: cover;
+}
+#image17{
+    height: 200px; width: 200px;
+    background-image: url("images/bedroom2.jpg");
+    background-size: cover;
+}
+#image18{
+    height: 200px; width: 200px;
+    background-image: url("images/bedroom3.jpg");
+    background-size: cover;
+}
 .Dining{
     display: inline-block;
     background-color: burlywood; color: blue;
     height: 50px;width: 400px;
     text-align: center;
 }
-*body{
-    background-color: cornsilk;
+#image19{
+    height: 200px; width: 200px;
+    background-image: url("images/dining1.jpg");
+    background-size: cover;
+}
+#image20{
+    height: 200px; width: 200px;
+    background-image: url("images/dining2.jpg");
+    background-size: cover;
+}
+#image21{
+    height: 200px; width: 200px;
+    background-image: url("images/dining3.jpg");
+    background-size: cover;
 }
